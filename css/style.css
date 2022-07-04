@@ -1,0 +1,46 @@
+* {
+    background-color: rgb(4, 4, 46);
+}
+
+#container {
+    border: 10px double green;
+    width: 998px;
+    margin: 0 auto;
+    padding: 0 auto;
+
+}
+
+#links {
+display: flex;
+justify-content: space-around;
+
+}
+
+#links a {
+    color: white;
+    text-decoration: none;
+}
+
+.text {
+color: white;
+font-family: cursive;
+font-size: larger;
+display: flex;
+align-items: center;
+}
+
+.text p {
+    padding-left: 330px;
+}
+
+.images{
+   margin-left: 30%;
+}
+
+.img1 {
+    border-radius: 50%;
+}
+
+.img2 {
+    border-radius: 25%;
+}
